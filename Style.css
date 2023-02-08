@@ -1,0 +1,33 @@
+﻿body
+{
+    background-color:  #000000;
+}
+
+.myHome
+{
+    background-color: #000000;
+    text-align:center;
+    height: 300px;
+}
+
+#projects {
+    background-color: #000000;
+    margin: 0;
+    padding:0;
+}
+
+.myContact {
+    background-color: #000000;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    height: 400px;
+}
+
+.myFooter
+{
+    text-align: center;
+    background-color: #000000;
+    height: 40px;
+}
+
